@@ -7,8 +7,8 @@ using namespace std;
 
 class Complex {
     private:
-        double m_actual;
-        double m_imaginary;
+        double actual;
+        double imaginary;
 
     public:
         Complex(double aRe = 0, double aIm = 0);
