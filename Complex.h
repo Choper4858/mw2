@@ -9,7 +9,6 @@ class Complex {
     private:
         double actual;
         double imaginary;
-
     public:
         Complex(double aRe = 0, double aIm = 0);
         Complex(const Complex&);
